@@ -1,1 +1,4 @@
-anotaçoes para os cursos
+Primeiro desafio realizado
+
+criar o repositório, realizar alterações e empurra-los para o github
+
